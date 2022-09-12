@@ -25,4 +25,4 @@ In this scenario, configure data sources with Excel file for data variation.
 
 Through data-driven testing, run the same test using different data variations within a single test case. Here is the use-case scenario.
 
- Data driven test case to verify the hash code for the keyword #Brave# by using different hash methods like gost, md5, crc32, etc
+ Data driven test case to verify the hash code for the keyword # Brave by using different hash methods like gost, md5, crc32, etc
