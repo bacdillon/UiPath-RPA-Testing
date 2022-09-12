@@ -1,6 +1,6 @@
 # UiPath-Test-Suite
 
-Use Studio to create, design, and map test cases and execution results to requirements and defects.
+Use Studio to create, design, and map test cases and execution results to requirements and defects. RPA testing, can define the inputs, expected results and outputs to check whether automation projects are working properly.
 
 # Application Testing
 Through data-driven testing, run the same test using different data variations within a single test case. Here is the use-case scenario.
