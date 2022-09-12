@@ -3,9 +3,7 @@
 Use Studio to create, design, and map test cases and execution results to requirements and defects. RPA testing, can define the inputs, expected results and outputs to check whether automation projects are working properly.
 
 # Application Testing
-Through data-driven testing, run the same test using different data variations within a single test case. Here is the use-case scenario.
-
-The following activity packages
+The following activity packages was installed.
 
 * UiPath.System.Activities
 * UiPath.UIAutomation.Activities
@@ -25,3 +23,4 @@ For these types of activities, if encounter an error, the execution logs the fai
 Data-driven testing allows to test RPA workflows and applications to make sure that the automations can handle multiple scenarios.
 In this scenario, configure data sources with Excel file for data variation.
 
+Through data-driven testing, run the same test using different data variations within a single test case. Here is the use-case scenario.
