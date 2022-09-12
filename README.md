@@ -21,3 +21,7 @@ For these types of activities, if encounter an error, the execution logs the fai
 
 ![alt text](https://github.com/bacdillon/UiPath-Test-Suite/blob/main/OutputErrorPassed.JPG)
 
+# Data-Driven Testing
+Data-driven testing allows to test RPA workflows and applications to make sure that the automations can handle multiple scenarios.
+In this scenario, configure data sources with Excel file for data variation.
+
