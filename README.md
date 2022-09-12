@@ -30,4 +30,4 @@ Through data-driven testing, run the same test using different data variations w
 # Test Manager
 Test Manager is the component used for managing the test process, automated test case creation in Studio or automated test execution by test robots.
 
-![alt text] (https://github.com/bacdillon/UiPath-Test-Suite/blob/main/Test%20Manager%20validate%20HASH.JPG)
+![alt text](https://github.com/bacdillon/UiPath-Test-Suite/blob/main/Test Manager validate HASH.JPG)
