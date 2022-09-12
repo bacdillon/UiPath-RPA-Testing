@@ -10,3 +10,12 @@ The following activity packages
 * UiPath.System.Activities
 * UiPath.UIAutomation.Activities
 * UiPath.Testing.Activities
+
+The following activities are available for testing data used by the workflows:
+
+* Verify Control Attribute
+* Verify Expression
+* Verify Expression with Operator
+
+For these types of activities, if encounter an error, the execution logs the failed activity in the Output panel as opposed to stopping the workflow from running.
+
