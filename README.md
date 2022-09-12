@@ -19,3 +19,4 @@ The following activities are available for testing data used by the workflows:
 
 For these types of activities, if encounter an error, the execution logs the failed activity in the Output panel as opposed to stopping the workflow from running.
 
+![alt text(https://github.com/bacdillon/UiPath-Test-Suite/blob/main/OutputErrorPassed.JPG))
