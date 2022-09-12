@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://cloud.uipath.com/dillon/development/testmanager_/",
+  "defaultProject": {
+    "id": "d25feac7-ad0f-0000-dd1d-0b445e13fedc",
+    "name": "Demo - Test Manager Hash",
+    "key": "TMH"
+  }
+}
